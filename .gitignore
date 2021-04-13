@@ -1,0 +1,4 @@
+/env
+*.txt
+!example_input.txt
+.vscode/
