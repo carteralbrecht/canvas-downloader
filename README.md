@@ -1,6 +1,6 @@
 # Canvas Notes Video Downloader 
 
-Automates the process of opening a page of notes from [my university's canvas site](webcourses.ucf.edu), finding embedded videos, changing the resolution, and downloading them with a descriptive filename
+Automates the process of opening a page of notes from [my university's canvas site](https://webcourses.ucf.edu/), finding embedded videos, changing the resolution, and downloading them with a descriptive filename
 
 ## Motivations
 
